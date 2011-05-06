@@ -1,0 +1,386 @@
+// !$*UTF8*$!
+{
+	060E8C4D135CDFB400A2A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 4;
+	};
+	060E8C51135CE05F00A2A3AD /* AFOpenFlowView.h:10 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 10;
+		modificationTime = 324853855.307752;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	060E8C53135CE06300A2A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 4;
+	};
+	060E8C54135CE06300A2A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 4;
+	};
+	060E8C57135CE0B300A2A3AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 4;
+	};
+	0635C2EF13456D4E00E55315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890F111161050084E2DE /* AFUIImageReflection.h */;
+		name = "AFUIImageReflection.h: 12";
+		rLen = 0;
+		rLoc = 524;
+		rType = 0;
+		vrLen = 1147;
+		vrLoc = 0;
+	};
+	0635C3211346406900E55315 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1147;
+		vrLoc = 0;
+	};
+	063B334A1322F138004DAF86 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890C111161050084E2DE /* AFOpenFlowConstants.h */;
+		name = "AFOpenFlowConstants.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1198;
+		vrLoc = 0;
+	};
+	06487D6F131D743C0087CF89 /* AFOpenFlowConstants.h:11 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 24CA890C111161050084E2DE /* AFOpenFlowConstants.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 11;
+		modificationTime = 320697404.665705;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	0689B147135537A000C5FA7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA890D111161050084E2DE /* AFOpenFlowView.h */;
+		name = "AFOpenFlowView.h: 15";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 1112;
+		vrLoc = 0;
+	};
+	06A460311318699600D68647 /* Conecta Mexico */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Conecta Mexico";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	06A460321318699600D68647 /* Conecta Mexico-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Conecta Mexico-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	06A4604B1318699E00D68647 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	06A4604C1318699E00D68647 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	06A4605513186BA900D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2478B2A411C447A4005814DF /* ApplicationMods.m */;
+		name = "ApplicationMods.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	06A4605613186BA900D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2478B2A311C447A4005814DF /* ApplicationMods.h */;
+		name = "ApplicationMods.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	06A4605713186BA900D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24596692118E70D300519F79 /* ApplicationRouting.m */;
+		name = "ApplicationRouting.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 120292;
+		vrLoc = 0;
+	};
+	06A4605813186BA900D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 241EAEC5118E2BA90081A5BE /* project.xcconfig */;
+		name = "project.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	06A4605913186BA900D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 241EAA21118AB3BB0081A5BE /* defines.h */;
+		name = "defines.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	06A4605A13186BA900D68647 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 24CA9182111170820084E2DE /* Default.png */;
+	};
+	06A4606E1318A21F00D68647 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2464F96211AB996C001C035A /* module.xcconfig */;
+		name = "module.xcconfig: 3";
+		rLen = 0;
+		rLoc = 43;
+		rType = 0;
+		vrLen = 43;
+		vrLoc = 0;
+	};
+	1D6058900D05DD3D006BFB54 /* Conecta Mexico */ = {
+		activeExec = 0;
+		executables = (
+			06A460311318699600D68647 /* Conecta Mexico */,
+		);
+	};
+	241EAA21118AB3BB0081A5BE /* defines.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 827}";
+		};
+	};
+	241EAEC5118E2BA90081A5BE /* project.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 315}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 273}";
+		};
+	};
+	24596692118E70D300519F79 /* ApplicationRouting.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795786, 624}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 120292}";
+		};
+	};
+	2464F96211AB996C001C035A /* module.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 315}}";
+			sepNavSelRange = "{43, 0}";
+			sepNavVisRange = "{0, 43}";
+		};
+	};
+	2478B2A311C447A4005814DF /* ApplicationMods.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 315}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 219}";
+		};
+	};
+	2478B2A411C447A4005814DF /* ApplicationMods.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {774, 315}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 221}";
+		};
+	};
+	24CA890C111161050084E2DE /* AFOpenFlowConstants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 416}}";
+			sepNavSelRange = "{661, 0}";
+			sepNavVisRange = "{0, 1198}";
+		};
+	};
+	24CA890D111161050084E2DE /* AFOpenFlowView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 1014}}";
+			sepNavSelRange = "{661, 0}";
+			sepNavVisRange = "{4, 1043}";
+		};
+	};
+	24CA890F111161050084E2DE /* AFUIImageReflection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 481}}";
+			sepNavSelRange = "{524, 0}";
+			sepNavVisRange = "{0, 1147}";
+		};
+	};
+	24D8E3B5119B9D8A00F8CAA6 /* Conecta Mexico-iPad */ = {
+		activeExec = 0;
+		executables = (
+			06A460321318699600D68647 /* Conecta Mexico-iPad */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 06A460311318699600D68647 /* Conecta Mexico */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Conecta Mexico */;
+		breakpoints = (
+			06487D6F131D743C0087CF89 /* AFOpenFlowConstants.h:11 */,
+			060E8C51135CE05F00A2A3AD /* AFOpenFlowView.h:10 */,
+		);
+		codeSenseManager = 06A4604C1318699E00D68647 /* Code sense */;
+		executables = (
+			06A460311318699600D68647 /* Conecta Mexico */,
+			06A460321318699600D68647 /* Conecta Mexico-iPad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					829,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324853668;
+			PBXWorkspaceStateSaveDate = 324853668;
+		};
+		perUserProjectItems = {
+			060E8C4D135CDFB400A2A3AD /* PBXTextBookmark */ = 060E8C4D135CDFB400A2A3AD /* PBXTextBookmark */;
+			060E8C53135CE06300A2A3AD /* PBXTextBookmark */ = 060E8C53135CE06300A2A3AD /* PBXTextBookmark */;
+			060E8C54135CE06300A2A3AD /* PBXTextBookmark */ = 060E8C54135CE06300A2A3AD /* PBXTextBookmark */;
+			060E8C57135CE0B300A2A3AD /* PBXTextBookmark */ = 060E8C57135CE0B300A2A3AD /* PBXTextBookmark */;
+			0635C2EF13456D4E00E55315 = 0635C2EF13456D4E00E55315 /* PBXTextBookmark */;
+			0635C3211346406900E55315 = 0635C3211346406900E55315 /* PBXTextBookmark */;
+			063B334A1322F138004DAF86 = 063B334A1322F138004DAF86 /* PBXTextBookmark */;
+			0689B147135537A000C5FA7F = 0689B147135537A000C5FA7F /* PBXTextBookmark */;
+			06A4605513186BA900D68647 = 06A4605513186BA900D68647 /* PBXTextBookmark */;
+			06A4605613186BA900D68647 = 06A4605613186BA900D68647 /* PBXTextBookmark */;
+			06A4605713186BA900D68647 = 06A4605713186BA900D68647 /* PBXTextBookmark */;
+			06A4605813186BA900D68647 = 06A4605813186BA900D68647 /* PBXTextBookmark */;
+			06A4605913186BA900D68647 = 06A4605913186BA900D68647 /* PBXTextBookmark */;
+			06A4605A13186BA900D68647 = 06A4605A13186BA900D68647 /* PBXBookmark */;
+			06A4606E1318A21F00D68647 = 06A4606E1318A21F00D68647 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 06A4604B1318699E00D68647 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

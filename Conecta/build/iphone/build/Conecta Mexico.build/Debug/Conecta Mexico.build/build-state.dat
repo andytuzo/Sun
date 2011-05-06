@@ -1,0 +1,70 @@
+TConecta Mexico
+v7
+r1
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/Resources/Default.png
+c000000004D6831B90000000000004091
+t1298674105
+s16529
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/Resources/stylesheet.plist
+c000000004D6831BB000000000000060C
+t1298674107
+s1548
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Conecta Mexico.build/Debug/Conecta Mexico.build/Script-241EAF36118E30260081A5BE.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Conecta Mexico.build/Debug/Conecta Mexico.build/Script-24CA8D03111169070084E2DE.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/Info.plist
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/Resources/stylesheet.plist
+t2
+s0
+
+NInfo.plist
+c000000004D6831BB000000000000097F
+t1298674107
+s2431
+
+CCodeSign "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app"
+r0
+
+CCopyPlistFile "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/Resources/stylesheet.plist" Resources/stylesheet.plist
+r0
+
+CCpResource "build/Debug/Conecta Mexico.app/Contents/Resources/Default.png" Resources/Default.png
+r0
+
+CPhaseScriptExecution Post-Compile "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Conecta Mexico.build/Debug/Conecta Mexico.build/Script-24CA8D03111169070084E2DE.sh"
+r0
+
+CPhaseScriptExecution Pre-Compile "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Conecta Mexico.build/Debug/Conecta Mexico.build/Script-241EAF36118E30260081A5BE.sh"
+r0
+
+CProcessInfoPlistFile "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/arturojamaica/Desktop/Conecta/build/iphone/build/Debug/Conecta Mexico.app"
+r0
+

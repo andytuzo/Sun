@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Conecta Mexico */ = {
+		activeExec = 0;
+		executables = (
+			25CE58F7135E7D56008AD8BC /* Conecta Mexico */,
+		);
+	};
+	24CA8A20111161FD0084E2DE /* TiUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 15431}}";
+			sepNavSelRange = "{19712, 0}";
+			sepNavVisRange = "{19555, 486}";
+		};
+	};
+	24D8E3B5119B9D8A00F8CAA6 /* Conecta Mexico-iPad */ = {
+		activeExec = 0;
+		executables = (
+			25CE58F8135E7D56008AD8BC /* Conecta Mexico-iPad */,
+		);
+	};
+	254D2E1413662E7100A6B813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA8A20111161FD0084E2DE /* TiUtils.m */;
+		name = "TiUtils.m: 752";
+		rLen = 0;
+		rLoc = 19712;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 19555;
+	};
+	256504E71373800F0036C711 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 24CA8A20111161FD0084E2DE /* TiUtils.m */;
+		name = "TiUtils.m: 752";
+		rLen = 0;
+		rLoc = 19712;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 19555;
+	};
+	25CE58F7135E7D56008AD8BC /* Conecta Mexico */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Conecta Mexico";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	25CE58F8135E7D56008AD8BC /* Conecta Mexico-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Conecta Mexico-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25CE58F9135E7D56008AD8BC /* Conecta Mexico-universal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Conecta Mexico-universal";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	25CE5909135E7D5D008AD8BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	25CE590A135E7D5D008AD8BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 25CE58F7135E7D56008AD8BC /* Conecta Mexico */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Conecta Mexico */;
+		codeSenseManager = 25CE590A135E7D5D008AD8BC /* Code sense */;
+		executables = (
+			25CE58F7135E7D56008AD8BC /* Conecta Mexico */,
+			25CE58F8135E7D56008AD8BC /* Conecta Mexico-iPad */,
+			25CE58F9135E7D56008AD8BC /* Conecta Mexico-universal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326336398;
+			PBXWorkspaceStateSaveDate = 326336398;
+		};
+		perUserProjectItems = {
+			254D2E1413662E7100A6B813 /* PBXTextBookmark */ = 254D2E1413662E7100A6B813 /* PBXTextBookmark */;
+			256504E71373800F0036C711 /* PBXTextBookmark */ = 256504E71373800F0036C711 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25CE5909135E7D5D008AD8BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DABB369A12E8CB280026A6EA /* Conecta Mexico-universal */ = {
+		activeExec = 0;
+		executables = (
+			25CE58F9135E7D56008AD8BC /* Conecta Mexico-universal */,
+		);
+	};
+}
